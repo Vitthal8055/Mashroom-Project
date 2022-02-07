@@ -1,5 +1,4 @@
-**# class-project**
-mashroom project using machine learning
+
 Mushroom Project
 Problem Statement:
 Data Set Information:
